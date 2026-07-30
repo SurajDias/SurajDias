@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SurajDias/SurajDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SURAJ DIAS
 
-Here are some ideas to get you started:
+### Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Turning Ideas into Production-Ready Software
+
+---
+
+Building intelligent software with modern technologies, scalable architectures, and AI-driven solutions.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineer passionate about designing and building software that solves real-world problems.
+
+My interests span software engineering, artificial intelligence, compiler design, distributed systems, and full-stack application development.
+
+I'm constantly learning, building, and refining projects that challenge me to think beyond writing code—focusing on architecture, scalability, and maintainability.
+
+---
