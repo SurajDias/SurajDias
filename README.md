@@ -68,10 +68,10 @@ Machine-learning dashboard that identifies at-risk customers and surfaces the si
 ## GitHub statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SurajDias&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=6" alt="Suraj's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajDias&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&border_radius=6" alt="Suraj's contribution streak" />
+  <img height="165" src="./profile/github-stats.svg" alt="Suraj's GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=SurajDias&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&border_radius=6" alt="Suraj's contribution streak" />
   <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDias&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=6" alt="Most used languages" />
+  <img height="165" src="./profile/top-languages.svg" alt="Most used languages" />
 </div>
 
 ## Contribution activity
