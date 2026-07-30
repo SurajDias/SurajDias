@@ -1,55 +1,8 @@
-# GitHub Profile Roadmap
+# Profile maintenance
 
-## Theme
-- Modern AI Engineer
-- Dark + Electric Blue
-- Clean & Professional
+This repository is the GitHub profile for [Suraj Dias](https://github.com/SurajDias).
 
----
-
-## Hero
-- Custom Banner
-- Name
-- Tagline
-
----
-
-## About Me
-
----
-
-## Tech Stack
-
----
-
-## Featured Projects
-
-- AutoOps Pro
-- Career Guardian AI
-- MiniCompiler Studio
-- Farewell Experience
-
----
-
-## GitHub Analytics
-
-- Stats
-- Streak
-- Languages
-- Activity Graph
-
----
-
-## Achievements
-
----
-
-## Connect With Me
-
----
-
-## Future Improvements
-
-- Snake Animation
-- Dynamic Quote
-- Portfolio Website
+- Keep the README concise and factual.
+- Update featured projects when a project has a clear repository and useful description.
+- The contribution snake is refreshed daily by GitHub Actions and published to the `output` branch.
+- Review technology claims before adding them; the profile should reflect hands-on experience.

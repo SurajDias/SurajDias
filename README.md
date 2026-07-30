@@ -1,260 +1,91 @@
 <div align="center">
-
-<img src="./assets/hero.svg" width="100%" alt="Suraj Dias — Software Engineer"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&lines=building+distributed+systems;shipping+production-ready+software;compilers+%C2%B7+AI+%C2%B7+observability" alt="typing animation"/>
-
+  <img src="./assets/hero.svg" width="100%" alt="Suraj Dias — Software Engineer" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=540&lines=building+reliable+software+systems;exploring+AI-assisted+developer+tools;compilers+%C2%B7+observability+%C2%B7+cloud-native+backends" alt="Current areas of focus" />
 </div>
 
-<br/>
+## About
 
-<img src="https://i.imgur.com/2yaf2wb.png" width="100%" height="1" alt=""/>
+I'm **Suraj Dias**, a Computer Science & Business Systems student at St. Joseph Engineering College (graduating in 2027). I build backend systems and AI-enabled products, with a particular interest in compilers, observability, and making complex systems easier to understand.
 
-## `01` About
+My engineering principle is simple: build the smallest system that is clear, dependable, and easy for the next person to operate. Good software should be understandable under pressure—not only impressive in a demo.
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+## Current focus
 
-I'm a final-year Computer Science &amp; Business Systems student at St. Joseph Engineering College, graduating in 2027, building software that sits closer to the systems layer than the surface — compilers, observability platforms, and applied ML.
+### Now building
 
-I care about **how** software is built as much as what it does: clear architecture, explainable systems, and code that holds up under real load — not just in a demo.
+AI-assisted observability workflows in AutoOps Pro, with attention to anomaly-detection accuracy and practical failure signals.
 
-Currently deepening my grip on distributed systems, AI-driven tooling, and cloud-native backend design.
+### Current learning
 
-</td>
-<td width="40%" valign="top">
+Distributed-systems fundamentals, fault tolerance, cloud-native backend design, and data structures and algorithms.
 
-```yaml
-role:      Software Engineer
-focus:     Backend · AI Systems · Compilers
-education: St. Joseph Engineering College
-graduating: 2027
-location:  India
-stack:     Python · TypeScript · React · FastAPI
-```
+### Open source
 
-</td>
-</tr>
-</table>
+Looking for focused opportunities to contribute to tools I use and learn from.
 
-<br/>
+## Technology stack
 
-## `02` Engineering Philosophy
+| Area | Technologies |
+| :-- | :-- |
+| **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
+| **Backend** | Python, FastAPI, Node.js, Express |
+| **AI / ML** | Python, machine learning, applied ML workflows |
+| **Databases** | MongoDB, MySQL |
+| **DevOps** | Docker, Linux, Git |
+| **Foundations & tools** | Java, C, VS Code, Postman |
 
-<blockquote>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,nodejs,mongodb,mysql,docker,git,linux,java,c&theme=dark&perline=12" alt="Selected technology icons" />
+</p>
 
-Good software isn't just code that runs — it's a system someone else can reason about at 3am during an incident. I'd rather ship something smaller that's explainable end-to-end than something impressive that's a black box.
+## Recent & featured projects
 
-</blockquote>
+### [AutoOps Pro](https://github.com/SurajDias/AutoOps-Pro)
 
-That's why a compiler, an observability platform, and a career-advice tool all live in the same portfolio — different domains, same underlying interest: **taking something opaque and making it legible.**
+AI-assisted observability platform for anomaly detection, root-cause analysis, and predictive failure signals across live system metrics.
 
-<br/>
+`Python` `FastAPI` `React` `Machine Learning`
 
-## `03` Engineering Highlights
+### [Career Guardian AI](https://github.com/SurajDias/Career-Guardian-AI)
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+Career assistant that analyzes résumés, identifies skill gaps, and produces personalised learning roadmaps from a candidate profile.
 
-### 🧬 Language &amp; Compilers
+`Python` `FastAPI` `React`
 
-Built a full front-end pipeline — lexer, recursive-descent parser, AST generation, and regex engine with ε-NFA → DFA conversion — from first principles in **MiniCompiler Studio**.
+### [MiniCompiler Studio](https://github.com/SurajDias/MiniCompiler-Studio)
 
-</td>
-<td width="33%" valign="top">
+A compiler front end built from first principles: lexing, recursive-descent parsing, AST generation, and a regex engine using ε-NFA to DFA conversion.
 
-### 📡 Observability &amp; AI
+`Java` `Parsing` `Automata Theory`
 
-Designed **AutoOps Pro**, an AI-assisted monitoring platform doing anomaly detection, root-cause analysis, and predictive failure signals over live system metrics.
+### [Customer Churn Dashboard](https://github.com/SurajDias/Customer-Churn-Intelligence-Dashboard)
 
-</td>
-<td width="33%" valign="top">
-
-### 🧭 Applied ML Products
-
-Shipped **Career Guardian AI** and a churn-intelligence dashboard — turning raw ML output into decisions a non-technical user can actually act on.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `04` Currently Building
-
-<table width="100%">
-<tr><td>
-
-```text
-[■■■■■■■■□□] AutoOps Pro          → hardening anomaly-detection accuracy
-[■■■■■■□□□□] Distributed Systems  → studying consensus & fault-tolerance patterns
-[■■■■■□□□□□] Cloud-Native Backend → scalable service design, containerized deploys
-[■■■■■■■□□□] DSA                  → consistent, structured problem solving
-```
-
-</td></tr>
-</table>
-
-<br/>
-
-## `05` Featured Projects
-
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-<div>
-
-### AutoOps Pro
-**AI-powered observability platform**
-
-Anomaly detection, root-cause analysis, and predictive failure monitoring built on a real-time metrics pipeline.
-
-`FastAPI` `React` `Python` `Machine Learning`
-
-<a href="https://github.com/SurajDias/AutoOps-Pro"><img src="https://img.shields.io/badge/Repository-View_Code-0a1929?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=050b18" /></a>
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-
-### Career Guardian AI
-**Intelligent career assistant**
-
-ATS-style resume analysis, skill-gap detection, and personalized learning roadmaps generated from a candidate's profile.
-
-`FastAPI` `React` `Python`
-
-<a href="https://github.com/SurajDias/Career-Guardian-AI"><img src="https://img.shields.io/badge/Repository-View_Code-0a1929?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=050b18" /></a>
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div>
-
-### MiniCompiler Studio
-**Recursive-descent compiler front-end**
-
-Lexer, parser, AST generation, and a regex engine with ε-NFA → DFA conversion — a compiler, built from the ground up.
-
-`Java` `Automata Theory` `Parsing`
-
-<a href="https://github.com/SurajDias/MiniCompiler-Studio"><img src="https://img.shields.io/badge/Repository-View_Code-0a1929?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=050b18" /></a>
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-
-### Customer Churn Intelligence Dashboard
-**ML-driven churn prediction**
-
-A model and dashboard that surfaces which customers are at risk and why — built for decisions, not just predictions.
+Machine-learning dashboard that identifies at-risk customers and surfaces the signals behind each prediction for practical decision-making.
 
 `Python` `Machine Learning`
 
-<a href="https://github.com/SurajDias/Customer-Churn-Intelligence-Dashboard"><img src="https://img.shields.io/badge/Repository-View_Code-0a1929?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=050b18" /></a>
-
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `06` Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="20%"><strong>Languages</strong></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=python,java,c,ts,js&theme=dark" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Backend</strong></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Frontend</strong></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Database</strong></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Tooling</strong></td>
-<td valign="top">
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman&theme=dark" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `07` GitHub Analytics
+## GitHub statistics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SurajDias&show_icons=true&hide_border=true&bg_color=050b18&title_color=38BDF8&icon_color=7DD3FC&text_color=8fb8d8&border_radius=6"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajDias&hide_border=true&background=050b18&stroke=0a1929&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=8fb8d8&currStreakNum=e6f4ff&sideNums=e6f4ff&dates=4c7699&border_radius=6"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDias&layout=compact&hide_border=true&bg_color=050b18&title_color=38BDF8&text_color=8fb8d8&border_radius=6"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SurajDias&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=6" alt="Suraj's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SurajDias&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&border_radius=6" alt="Suraj's contribution streak" />
+  <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajDias&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=6" alt="Most used languages" />
 </div>
 
-<!--
-  GITHUB ACTIONS — reserved slots, add without touching layout above
-  1) Contribution snake:
-     <img src="./assets/snake.svg" width="100%"/>
-  2) Auto-updated metrics (lowlighter/metrics or similar):
-     <img src="./assets/metrics.svg" width="100%"/>
-  3) Visitor count:
-     <img src="https://komarev.com/ghpvc/?username=SurajDias&style=flat-square&color=38BDF8&label=PROFILE+VIEWS"/>
-  4) Latest activity feed (e.g. jamesgeorge007/github-activity-readme):
-     <!--START_SECTION:activity-->
-     <!--END_SECTION:activity-->
--->
-
-<br/>
-
-## `08` Achievements
+## Contribution activity
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SurajDias&no-frame=true&row=1&column=6&theme=algolia&title=Commits,Stars,Followers,PullRequest,Issues,Repositories"/>
-
+  <img src="https://raw.githubusercontent.com/SurajDias/SurajDias/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake traversing Suraj's GitHub contributions" />
 </div>
 
-<br/>
+## Connect
 
-## `09` Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/thesurajdias"><img src="https://img.shields.io/badge/LinkedIn-0a1929?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=050b18"/></a>
-<a href="mailto:diassuraj13@gmail.com"><img src="https://img.shields.io/badge/Email-0a1929?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=050b18"/></a>
-<a href="https://github.com/SurajDias"><img src="https://img.shields.io/badge/GitHub-0a1929?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=050b18"/></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Designed to run as a real profile page — not a template. Edit deliberately.</sub>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/thesurajdias">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:diassuraj13@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/SurajDias">GitHub</a>
+</p>
