@@ -16,10 +16,45 @@ Building intelligent software with modern technologies, scalable architectures, 
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer passionate about designing and building software that solves real-world problems.
+## ⚡ Engineering Highlights
 
-My interests span software engineering, artificial intelligence, compiler design, distributed systems, and full-stack application development.
+- 🧠 Built **MiniCompiler Studio** featuring lexical analysis, recursive descent parsing, AST generation, and regex-based automata conversion.
 
-I'm constantly learning, building, and refining projects that challenge me to think beyond writing code—focusing on architecture, scalability, and maintainability.
+- 🚀 Developed **AutoOps Pro**, an AI-powered system monitoring platform with anomaly detection, root cause analysis, and predictive failure monitoring.
 
----
+- 🤖 Created **Career Guardian AI**, an intelligent career assistant providing ATS analysis, skill-gap detection, and personalized learning roadmaps.
+
+- 🌐 Passionate about designing scalable software, clean architecture, and production-ready applications.
+
+- 📚 Currently exploring AI systems, distributed architectures, cloud technologies, and system design.
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🚀 AutoOps Pro | AI-powered infrastructure monitoring platform | FastAPI • React • Python |
+| 🤖 Career Guardian AI | Resume analyzer and career roadmap generator | Python • FastAPI • React |
+| 🧠 MiniCompiler Studio | Compiler with lexer, parser, AST and automata | Java |
+| 📊 Customer Churn Intelligence | Machine learning dashboard for churn prediction | Python • ML |
+
+## 🛠 Tech Stack
+
+### Languages
+
+`Python` `Java` `C` `JavaScript` `TypeScript` `SQL`
+
+### Backend
+
+`FastAPI` `Node.js` `Express`
+
+### Frontend
+
+`React` `Vite` `HTML` `CSS`
+
+### Databases
+
+`MongoDB` `MySQL`
+
+### Tools
+
+`Git` `Linux` `Docker` `Postman` `VS Code`
