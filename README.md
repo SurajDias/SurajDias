@@ -83,6 +83,8 @@ Machine-learning dashboard that identifies at-risk customers and surfaces the si
 ## Connect
 
 <p>
+   <a href="https://www.surajdias.tech">Portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/thesurajdias">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:diassuraj13@gmail.com">Email</a>
