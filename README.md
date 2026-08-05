@@ -27,16 +27,43 @@ Looking for focused opportunities to contribute to tools I use and learn from.
 ## Technology stack
 
 | Area | Technologies |
-| :-- | :-- |
-| **Frontend** | React, TypeScript, JavaScript, HTML, CSS |
-| **Backend** | Python, FastAPI, Node.js, Express |
-| **AI / ML** | Python, machine learning, applied ML workflows |
-| **Databases** | MongoDB, MySQL |
-| **DevOps** | Docker, Linux, Git |
-| **Foundations & tools** | Java, C, VS Code, Postman |
+|------|--------------|
+| 💻 Languages | Java, Python, TypeScript, JavaScript, C |
+| 🎨 Frontend | React, HTML5, CSS3, Tailwind CSS |
+| ⚙️ Backend | Node.js, Express.js, FastAPI, Flask |
+| 🗄️ Databases | MongoDB, MySQL, PostgreSQL |
+| 🚀 DevOps & Deployment | Docker, Git, GitHub, Linux, Bash, Vercel |
+| 🤖 AI / ML | Python, Machine Learning, Applied ML Workflows |
+| 🛠️ Tools | VS Code, Postman |
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,nodejs,mongodb,mysql,docker,git,linux,java,c&theme=dark&perline=12" alt="Selected technology icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,c&theme=dark&perline=5" alt="Languages" />
+</p>
+
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=4" alt="Frontend" />
+</p>
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=4" alt="Backend" />
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=3" alt="Databases" />
+</p>
+
+### 🚀 DevOps & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vercel&theme=dark&perline=6" alt="DevOps & Deployment" />
 </p>
 
 ## Recent & featured projects
