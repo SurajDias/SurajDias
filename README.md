@@ -107,6 +107,14 @@ Machine-learning dashboard that identifies at-risk customers and surfaces the si
   <img src="https://raw.githubusercontent.com/SurajDias/SurajDias/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake traversing Suraj's GitHub contributions" />
 </div>
 
+## Portfolio clone report
+
+<div align="center">
+  <img src="./profile/clone-report.svg" width="100%" alt="Suraj's repository clone tracking report" />
+</div>
+
+<p align="center"><sub>Tracks clones across all public repositories, past and future · updates daily via GitHub Actions</sub></p>
+
 ## Connect
 
 <p>
