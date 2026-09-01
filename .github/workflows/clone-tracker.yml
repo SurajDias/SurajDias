@@ -1,0 +1,40 @@
+name: Clone Tracker
+
+on:
+  schedule:
+    # Runs once a day. GitHub only keeps 14 days of traffic data, so this
+    # keeps clone-data.json topped up before any day's numbers expire.
+    - cron: '0 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-clone-report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch clone stats and regenerate report
+        env:
+          GH_USERNAME: SurajDias
+          # Personal Access Token (classic) with the "repo" scope.
+          # The default GITHUB_TOKEN can't read traffic data for other repos,
+          # so this must be added as a repo secret named CLONE_TRACKER_PAT.
+          GH_TRAFFIC_TOKEN: ${{ secrets.CLONE_TRACKER_PAT }}
+        run: node scripts/clone-tracker.js
+
+      - name: Commit updated report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/clone-data.json profile/clone-report.svg
+          git diff --cached --quiet || git commit -m "chore: update clone report"
+          git push
