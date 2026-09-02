@@ -6,24 +6,24 @@
   <text x="42" y="38" font-size="12" letter-spacing="1" fill="#8B949E">ACCOUNT CLONE PULSE</text>
   <text x="230" y="38" font-size="11" fill="#3FB950">LIVE</text>
 
-  <text x="30" y="95" font-size="46" font-weight="700" fill="#F0F6FC">163</text>
+  <text x="30" y="95" font-size="46" font-weight="700" fill="#F0F6FC">199</text>
   <text x="30" y="118" font-size="12" letter-spacing="1" fill="#A78BFA">OVERALL TRACKED CLONES</text>
 
-  <text x="30" y="150" font-size="14" fill="#38BDF8" font-weight="600">163<tspan fill="#8B949E" font-weight="400"> clones · last 14 days</tspan></text>
+  <text x="30" y="150" font-size="14" fill="#38BDF8" font-weight="600">197<tspan fill="#8B949E" font-weight="400"> clones · last 14 days</tspan></text>
   <text x="30" y="172" font-size="14" fill="#A78BFA" font-weight="600">9<tspan fill="#8B949E" font-weight="400"> repositories tracked</tspan></text>
 
   <text x="470" y="38" font-size="12" letter-spacing="1" fill="#8B949E">TOP CLONED PROJECTS · TRACKED</text>
   
-        <text x="470" y="90" font-size="13" fill="#C9D1D9">AutoOps-Pro</text>
-        <text x="770" y="90" font-size="13" fill="#38BDF8" text-anchor="end" font-weight="600">64</text>
-        <text x="470" y="116" font-size="13" fill="#C9D1D9">SurajDias</text>
-        <text x="770" y="116" font-size="13" fill="#38BDF8" text-anchor="end" font-weight="600">56</text>
+        <text x="470" y="90" font-size="13" fill="#C9D1D9">SurajDias</text>
+        <text x="770" y="90" font-size="13" fill="#38BDF8" text-anchor="end" font-weight="600">77</text>
+        <text x="470" y="116" font-size="13" fill="#C9D1D9">AutoOps-Pro</text>
+        <text x="770" y="116" font-size="13" fill="#38BDF8" text-anchor="end" font-weight="600">75</text>
         <text x="470" y="142" font-size="13" fill="#C9D1D9">portfolio</text>
         <text x="770" y="142" font-size="13" fill="#38BDF8" text-anchor="end" font-weight="600">22</text>
 
   <g transform="translate(460, 150)">
-    <polyline points="6.0,50.3 29.7,35.5 53.4,42.9 77.1,20.8 100.8,48.5 124.5,42.9 148.2,44.8 171.8,11.5 195.5,30.0 219.2,24.5 242.9,35.5 266.6,6.0 290.3,37.4 314.0,24.5" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+    <polyline points="6.0,40.7 29.7,46.0 53.4,30.0 77.1,50.0 100.8,46.0 124.5,47.3 148.2,23.3 171.8,36.7 195.5,32.7 219.2,40.7 242.9,19.3 266.6,42.0 290.3,32.7 314.0,6.0" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   </g>
   <text x="470" y="228" font-size="10" letter-spacing="1" fill="#8B949E">DAILY MOMENTUM ACROSS ALL REPOS</text>
-  <text x="770" y="228" font-size="10" fill="#8B949E" text-anchor="end">updated 2026-09-01</text>
+  <text x="770" y="228" font-size="10" fill="#8B949E" text-anchor="end">updated 2026-09-02</text>
 </svg>
