@@ -25,5 +25,5 @@
     <polyline points="6.0,28.4 29.7,45.3 53.4,43.1 77.1,44.7 100.8,35.5 124.5,21.3 148.2,6.0 171.8,24.0 195.5,50.2 219.2,49.1 242.9,36.5 266.6,45.3 290.3,46.4 314.0,42.0" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
   </g>
   <text x="470" y="228" font-size="10" letter-spacing="1" fill="#8B949E">DAILY MOMENTUM ACROSS ALL REPOS</text>
-  <text x="770" y="228" font-size="10" fill="#8B949E" text-anchor="end">updated 2026-09-25</text>
+  <text x="770" y="228" font-size="10" fill="#8B949E" text-anchor="end">updated 2026-09-26</text>
 </svg>
